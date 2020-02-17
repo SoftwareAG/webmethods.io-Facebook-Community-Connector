@@ -1,0 +1,22 @@
+{
+  "name": "facebook",
+  "description": "test",
+  "triggers": [],
+  "actions": [
+    "/v1/get_user_details",
+    "/v1/get_feed_page",
+    "/v1/get_account_details",
+    "/v1/publish_a_post_on_a_page",
+    "/v1/update_a_post_on_a_page",
+    "/v1/delete_a_post_on_a_page",
+    "/v1/publish_a_link_on_a_page",
+    "/v1/create_a_new_album_on_a_page",
+    "/v1/publish_a_photo_on_a_page"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "docs_link": "http://docs.example.com",
+  "appId": "68c7148f-658d-4907-b7c0-046d9c6c9b0d",
+  "guid": "fd33072f-8d94-420f-ba70-692e7a248db0",
+  "connectionUid": "facebook_1581582129807"
+}
